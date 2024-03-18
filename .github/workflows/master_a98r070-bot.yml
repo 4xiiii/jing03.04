@@ -54,4 +54,4 @@ jobs:
           app-name: 'A98R070-bot'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E338610100104D6A8FFE92C1E18654BE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_78E0AE267A4941689637BAB1087CB07F }}
